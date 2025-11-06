@@ -413,7 +413,38 @@ linkd: 'https://docs.google.com/spreadsheets/d/1_tB88tyeIMkU3z8NGX9aPwId3ZZTTyo-
 linkdb:'',
 linkdc:''
 },
-
+{
+und:'25',
+login:'ELIANE',
+pass: 'SENHA1234',
+linkd: 'https://docs.google.com/spreadsheets/d/1f4j0B9LNwdWCUzuKN7SNvdMEEggrPAhRx6-HadNeGJQ/edit?usp=sharing',
+linkdb:'',
+linkdc:''
+},
+  {
+und:'23',
+login:'JANIELE',
+pass: 'sENHA5544',
+linkd: 'https://docs.google.com/spreadsheets/d/13yHBqCy91fv9oGgN9o1kpKJ0UejS1cVLTxvsMTsUocU/edit?usp=sharing',
+linkdb:'',
+linkdc:''
+},
+   {
+und:'25',
+login:'SABRINA',
+pass: 'sENHA321',
+linkd: 'https://docs.google.com/spreadsheets/d/1IKDiP2yyTaFyG-rbqVrO1O3wfpIkcC6e3VggEbCPQcU/edit?usp=sharing',
+linkdb:'',
+linkdc:''
+},
+   {
+und:'5',
+login:'NAGLA',
+pass: 'sENHA3333',
+linkd: 'https://docs.google.com/spreadsheets/d/1wvNmGYf1Dh290JeFUhqUPyurzEny_lqNaj66o7IdjA4/edit?usp=sharing',
+linkdb:'',
+linkdc:''
+},
   //supervisores
 {
 und:'41',
@@ -423,6 +454,8 @@ linkd:'https://atacadaoqueirozat-rgb.github.io/geral_vendedores/',
 linkdb:'',
 linkdc:''
 },
+
+
 {
 und:'41',
 login:'KAYSE',
@@ -440,6 +473,7 @@ linkdb:'',
 linkdc:''
 },
 ]
+
 
 
 
