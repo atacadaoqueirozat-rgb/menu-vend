@@ -460,7 +460,7 @@ linkdc:''
 und:'41',
 login:'KAYSE',
 pass: '54321',
-linkd:'https://atacadaoqueirozat-rgb.github.io/METAS-GERENCIAL/',
+linkd:'https://drive.google.com/drive/folders/1nTfGJM4izNbROAGVx4LVM3rz0SwJG1Dl?usp=drive_link',
 linkdb:'',
 linkdc:''
 },
@@ -468,11 +468,12 @@ linkdc:''
 und:'41',
 login:'GARI',
 pass: '852741',
-linkd:'https://atacadaoqueirozat-rgb.github.io/METAS-GERENCIAL/',
+linkd:'',
 linkdb:'',
 linkdc:''
 },
 ]
+
 
 
 
