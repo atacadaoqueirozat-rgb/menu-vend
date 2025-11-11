@@ -17,6 +17,14 @@ linkd: 'https://docs.google.com/spreadsheets/d/1mXYFvFX_kEDpieVVjTOm9imTF9SQS7of
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
 linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link'
 },
+   {
+und:'2',
+login:'ANDREA',
+pass: 'Senha2025',
+linkd: 'https://docs.google.com/spreadsheets/d/1tAxJkz3jj2lpUGrdhYF_DlNzRE0XxrHwPspFo2anNcI/edit?usp=sharing',
+linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
+linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link'
+},
 {
 und:'1',
 login:'CLAUDIONE',
@@ -473,6 +481,7 @@ linkdb:'',
 linkdc:''
 },
 ]
+
 
 
 
