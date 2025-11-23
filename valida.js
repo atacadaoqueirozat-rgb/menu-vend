@@ -192,7 +192,7 @@ login:'Carlos magno de Meneses',
 pass: 'CARLOS25@',
 linkd: 'https://docs.google.com/spreadsheets/d/1OfX3RX3bUkvqk05cGka5iRrsHLXoi_dpjJIqx3XyOMM/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
 },
 {
 und:'13',
@@ -488,6 +488,7 @@ linkdb:'',
 linkdc:''
 },
 ]
+
 
 
 
