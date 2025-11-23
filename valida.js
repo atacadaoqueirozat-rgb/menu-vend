@@ -8,7 +8,7 @@ pass: '1234',
 linkd:'https://docs.google.com/spreadsheets/d/1I3SZjihAR1A9GDXpi8esdk1CZLpYc4Fw1ZbL5eeb5-o/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
 linkdc:'https://drive.google.com/drive/folders/1YE360fn5JnEsFF7Aa0c16Bu_s03zfOL1?usp=sharing',
-linkdd:''
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
   {
 und:'11',
@@ -16,7 +16,8 @@ login:'ALINE MENEZES',
 pass: 'Senha2025',
 linkd: 'https://docs.google.com/spreadsheets/d/1mXYFvFX_kEDpieVVjTOm9imTF9SQS7ofuFn-bHOt-UY/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
   {
 und:'11',
@@ -24,7 +25,8 @@ login:'BRUNA',
 pass: '54321',
 linkd: 'https://docs.google.com/spreadsheets/d/1Z6UdyMUZmScm59kyQOvTP-gY49W5Eq9shuiSRsnxIpQ/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
    {
 und:'2',
@@ -32,7 +34,8 @@ login:'ANDREA',
 pass: 'Senha2025',
 linkd: 'https://docs.google.com/spreadsheets/d/1tAxJkz3jj2lpUGrdhYF_DlNzRE0XxrHwPspFo2anNcI/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'1',
@@ -40,7 +43,8 @@ login:'CLAUDIONE',
 pass: '2604',
 linkd: 'https://docs.google.com/spreadsheets/d/1qbWoTsf8XNGL-vLrxYTHy2bhui5trThMg0cPK1ua71I/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'3',
@@ -48,7 +52,8 @@ login:'GRACIELE',
 pass: '@2829',
 linkd: 'https://docs.google.com/spreadsheets/d/1tdlIYz3mESSucbqTWjgvFkBH6Vhnouc2n3ZWYNlBhCQ/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1YE360fn5JnEsFF7Aa0c16Bu_s03zfOL1?usp=sharing'
+linkdc:'https://drive.google.com/drive/folders/1YE360fn5JnEsFF7Aa0c16Bu_s03zfOL1?usp=sharing',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'19',
@@ -56,7 +61,8 @@ login:'IANCA SABRINA',
 pass: '2252',
 linkd: 'https://docs.google.com/spreadsheets/d/1DrIGVs31O2K6TRgJ9kXhgqdvBBAQn89W7VcpBPLT8jg/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'6',
@@ -64,7 +70,8 @@ login:'José.w',
 pass: '@Wilton91',
 linkd: 'https://docs.google.com/spreadsheets/d/1ry3m29hkVLsNSrFFe2Xy8pX_JOiNwiGQEdSmArEzqKY/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'7',
@@ -72,7 +79,8 @@ login:'JOAO VITOR',
 pass: '5680',
 linkd: 'https://docs.google.com/spreadsheets/d/1DAlm63cgepHEZpF6-n8WSK2JNO4pc5TR6tyUnjlexbs/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'26',
@@ -80,7 +88,8 @@ login:'JONY',
 pass: '1234',
 linkd: 'https://docs.google.com/spreadsheets/d/1sDdk9nWc0qeTzwZn6fNPByqV_Y-4eUI7xPkDscQ1IzM/edit?usp=sharing',
 linkdb:'',
-linkdc:''
+linkdc:'',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'7',
@@ -88,7 +97,8 @@ login:'JACKELINE',
 pass: '5680',
 linkd: 'https://docs.google.com/spreadsheets/d/1-sx-XaxqiMSzaN4ePQmSktCitcTnNtX4pfMUyoJdQP8/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'10',
@@ -96,7 +106,8 @@ login:'JOSY',
 pass: 'Josy123',
 linkd: 'https://docs.google.com/spreadsheets/d/1g8UrPdfcZ34hBstQ5kRMyTsLRRRz03pSjtHZEiCW-w0/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'2',
@@ -104,7 +115,8 @@ login:'LUCIVAN',
 pass: '123456',
 linkd: 'https://docs.google.com/spreadsheets/d/1rs_evvc9ymEu1MiKhPXajEEiqBewQ49YMRkDEanrscw/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'10',
@@ -112,7 +124,8 @@ login:'LUCIA.P',
 pass: 'Maria123',
 linkd: 'https://docs.google.com/spreadsheets/d/1tdALcNMZTZ-zy8m2pb8QSRF7aYfXvtDWC2baRmVTb1g/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'10',
@@ -120,7 +133,8 @@ login:'LILIAN',
 pass: 'Senha@22',
 linkd: 'https://docs.google.com/spreadsheets/d/1U2BxsMs_KmNuhh5yCP7s8alnrCTgqTD9WcqF4QZsw2Y/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'19',
@@ -128,7 +142,8 @@ login:'MARIA IZABELA',
 pass: '2128',
 linkd: 'https://docs.google.com/spreadsheets/d/1r3gpB1xMCh_Gnv3G2s5D4elf0bVGPp6bq6pcMBoAckE/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'11',
@@ -136,7 +151,8 @@ login:'MAYARA.PATRICIA',
 pass: 'Senha123',
 linkd: 'https://docs.google.com/spreadsheets/d/1H8Tmd7kkDHbFakHkUDQkdiWgdas7GkX2eVwfDKrqr0M/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'9',
@@ -144,7 +160,8 @@ login:'NAIARA',
 pass: '1020',
 linkd: 'https://docs.google.com/spreadsheets/d/1p5Hhu8BWxr4mDG7jtXM0Kk27FAYA_e_SB1_pTS4UILw/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'3',
@@ -152,7 +169,8 @@ login:'Pablo Weiber ',
 pass: '050394',
 linkd: 'https://docs.google.com/spreadsheets/d/1sVKWm6GSwoXHPFjP7mDYWIyQP_iFVXxAxSUM2g9bmqg/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
   {
 und:'3',
@@ -160,7 +178,8 @@ login:'ROSI',
 pass: '54321',
 linkd: 'https://docs.google.com/spreadsheets/d/1ZsID1yB9E79qNFsL7b_FXUtmYObxcTI0mhYu_ZMyLpc/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'1',
@@ -168,7 +187,8 @@ login:'TAWANN',
 pass: '206',
 linkd: 'https://docs.google.com/spreadsheets/d/1YSP1ccij_7kuNogCv8btgRPL9dhQWnmC5S4fdrKnwnI/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 
   /*RN-2*/
@@ -178,7 +198,8 @@ login:'Amanda izilly',
 pass: '410',
 linkd: 'https://docs.google.com/spreadsheets/d/1NbQrKSLKKTuICJ7KyOcIJYfLvO1oxPygmEpENAi0F2Q/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'12',
@@ -186,7 +207,8 @@ login:'Ana Karoline do nascimento',
 pass: 'Karol10',
 linkd: 'https://docs.google.com/spreadsheets/d/1tRuAoisQf4YXzFmJSgdZtNDh6l00vUTToQdkKN_-uo8/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'14',
@@ -194,7 +216,8 @@ login:'Carlos magno de Meneses',
 pass: 'CARLOS25@',
 linkd: 'https://docs.google.com/spreadsheets/d/1OfX3RX3bUkvqk05cGka5iRrsHLXoi_dpjJIqx3XyOMM/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link,
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'13',
@@ -202,7 +225,8 @@ login:'Francisca Gislaine pereira',
 pass: '2506',
 linkd: 'https://docs.google.com/spreadsheets/d/1PWJXWh_DfSG54cMoYnKPmRyzS74MA9AO7df0wmXAXw8/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'14',
@@ -210,7 +234,8 @@ login:'Francisco francinildo',
 pass: '1902',
 linkd: 'https://docs.google.com/spreadsheets/d/1fbhI6reTQH3ALy_o9KlmLbJSYfunbFG1fqwaN70SJ_E/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'12',
@@ -218,7 +243,8 @@ login:'GIZELI',
 pass: '123',
 linkd: 'https://docs.google.com/spreadsheets/d/1sNqOf6_px-YcgxIn_peRs1I2RiHg7eDROVNHGKUtGpM/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'13',
@@ -226,7 +252,8 @@ login:'João costa',
 pass: '403620',
 linkd: 'https://docs.google.com/spreadsheets/d/1cvzqZfTaUbvhU7z4qU_Hsvd5X86Ph_6iZgJTj4CMQXk/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'16',
@@ -234,7 +261,8 @@ login:'Luzinete Kátia de Medeiros',
 pass: '2114',
 linkd: 'https://docs.google.com/spreadsheets/d/1yWqQrsLm2RELKAJ86BPS4gwhwBB61vK20yRy5uGi3PI/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'20',
@@ -242,7 +270,8 @@ login:'Michael Douglas Mendonça',
 pass: 'Benicio16',
 linkd: 'https://docs.google.com/spreadsheets/d/1-lGzJOcTpRPNMNQdG8O3z1Z6kLPYo948K9m5gJkrevM/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'12',
@@ -250,7 +279,8 @@ login:'Micharles Gomes da Silva',
 pass: '123',
 linkd: 'https://docs.google.com/spreadsheets/d/1DMuDQM1GZRChSekZqwudOo68QXe9omGWENeNF7ulPcM/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'20',
@@ -258,7 +288,8 @@ login:'Sheila Cristina Xavier segundo',
 pass: '123',
 linkd: 'https://docs.google.com/spreadsheets/d/1_TgXjwrbnZZrcC_zzXtbF_q-cWH2HhgMQFL9mepAVrs/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 {
 und:'13',
@@ -266,7 +297,8 @@ login:'Tallys Ricardo da Silva',
 pass: 'Senha*123456',
 linkd: 'https://docs.google.com/spreadsheets/d/1ZCeXARqVqkq_NiTUfYYx3gM7nyd_VBwk0YC3hqXlBBw/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link'
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
+linkdd:'https://atacadaoqueirozat-rgb.github.io/CAMPANHAS/'
 },
 
 /*PB*/
@@ -490,6 +522,7 @@ linkdb:'',
 linkdc:''
 },
 ]
+
 
 
 
