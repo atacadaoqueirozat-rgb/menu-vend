@@ -15,7 +15,7 @@ login:'PABLO RODRIGUES',
 pass: '4321',
 linkd:'https://docs.google.com/spreadsheets/d/1WZEw9K88y2pDjR2bvjRk4K4FQup0GCHi6fC1bfWFM7c/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
-linkdc:'',
+linkdc:'https://drive.google.com/drive/folders/10nTsbwyWTTNMkyZeK90sK_msPOTj7yqr?usp=sharing',
 linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing'
 },
 {
@@ -530,6 +530,7 @@ linkdb:'',
 linkdc:''
 },
 ]
+
 
 
 
