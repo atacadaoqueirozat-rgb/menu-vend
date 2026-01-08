@@ -316,7 +316,7 @@ linkd: 'https://docs.google.com/spreadsheets/d/1EZaeKnw-6eGDebF4x5i_EJMYRnXXflai
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
 linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
 linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing'
-}
+},
 {
 und:'22',
 login:'JOSE TINOCO',
@@ -325,7 +325,7 @@ linkd: 'https://docs.google.com/spreadsheets/d/1a0S0r2-UKgMIqPzAS736TQBwTScOy-s1
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
 linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
 linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing'
-}
+},
 
 {
 und:'22',
@@ -335,7 +335,7 @@ linkd: 'https://docs.google.com/spreadsheets/d/1JoS5kl6LWNWmkVBSSNp3uguDSbI7FkTY
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
 linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
 linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing'
-}
+},
 
   
 
@@ -560,6 +560,7 @@ linkdb:'',
 linkdc:''
 },
 ]
+
 
 
 
