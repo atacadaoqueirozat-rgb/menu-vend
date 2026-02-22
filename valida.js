@@ -7,7 +7,7 @@ pass: '1234',
 linkd:'https://docs.google.com/spreadsheets/d/1I3SZjihAR1A9GDXpi8esdk1CZLpYc4Fw1ZbL5eeb5-o/edit?usp=sharing',
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
 linkdc:'https://drive.google.com/drive/folders/1YE360fn5JnEsFF7Aa0c16Bu_s03zfOL1?usp=sharing',
-linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing'
+linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing',
   linkde:'https://forms.gle/9EniuAiABdqAjKEU6'
 },
   {
@@ -561,6 +561,7 @@ linkdb:'',
 linkdc:''
 },
 ]
+
 
 
 
