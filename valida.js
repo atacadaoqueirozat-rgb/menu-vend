@@ -8,7 +8,7 @@ linkd:'https://docs.google.com/spreadsheets/d/1I3SZjihAR1A9GDXpi8esdk1CZLpYc4Fw1
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
 linkdc:'https://drive.google.com/drive/folders/1YE360fn5JnEsFF7Aa0c16Bu_s03zfOL1?usp=sharing',
 linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing',
-  linkde:''
+  linkde:'https://forms.gle/AMvuSFQfxxxFcGfq7'
 },
   {
 und:'26',
@@ -18,7 +18,7 @@ linkd:'https://docs.google.com/spreadsheets/d/1WZEw9K88y2pDjR2bvjRk4K4FQup0GCHi6
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
 linkdc:'https://drive.google.com/drive/folders/10nTsbwyWTTNMkyZeK90sK_msPOTj7yqr?usp=sharing',
 linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing',
-  linkde:''
+  linkde:'https://forms.gle/jgRnjjD9vNqXe6M6A'
 },
 {
 und:'11',
@@ -98,7 +98,7 @@ linkd: 'https://docs.google.com/spreadsheets/d/1DAlm63cgepHEZpF6-n8WSK2JNO4pc5TR
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
 linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link',
 linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing',
-  linkde:''
+  linkde:'https://forms.gle/yk9ovcDPskSzYLoQ6'
 },
 {
 und:'27',
@@ -128,7 +128,7 @@ linkd: 'https://docs.google.com/spreadsheets/d/1iaqBPtt372P_33vBROblBRQpYKM8AI0m
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
 linkdc:'https://drive.google.com/drive/folders/1gKNbv9Xj1BsNnvgHY2wq9NWUH2vprZUB?usp=drive_link',
 linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing',
-  linkde:''
+  linkde:'https://forms.gle/NxpLvhS3zzQJveiNA'
 },
 {
 und:'10',
@@ -168,7 +168,7 @@ linkd: 'https://docs.google.com/spreadsheets/d/1uZ0_KVozysGJWDGeM9efoQMAhIwewBvI
 linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
 linkdc:'https://drive.google.com/drive/folders/1dcMt7QZDxxZSzjxd734qu_c2tf4jChKj?usp=drive_link',
 linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing',
-  linkde:''
+  linkde:'https://forms.gle/BbFbQWqJe814kg9a8'
 },
 {
 und:'3',
@@ -577,6 +577,7 @@ linkdb:'',
 linkdc:''
 },
 ]
+
 
 
 
