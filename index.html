@@ -186,6 +186,10 @@ ol, ul {
 		        	 <div >
 		             <label for="">Senha</label>
 		             <input type="password" id="senha" class="form-control">
+						 <div >
+		             <label for="">Senha</label>
+		             <input type="password" id="diario" class="form-control">
+		             </div>
 		             </div>
 			        	<div >
 			            <button class="btn btn-success form-control" id="btnLogar" onclick="">Logar</button>
@@ -229,7 +233,7 @@ ol, ul {
                  document.getElementById('loja').value=a
                 document.getElementById('usuario').value=b
                 document.getElementById('senha').value=c
-                
+               document.getElementById('diario').value=e
               }
       
           }
@@ -264,7 +268,7 @@ ol, ul {
         }
 		 function carregae(){
           const iframe = document.getElementById('okj');
-          iframe.src = const  e     
+          iframe.src = document.getElementById('diario').value    
         }
 		 
     function fec(){
@@ -282,6 +286,7 @@ document.getElementById("b1").style.display="none";
 
 
 </html>
+
 
 
 
