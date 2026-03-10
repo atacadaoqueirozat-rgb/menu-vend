@@ -1,5 +1,15 @@
 const usuarios = [
   /*RN-1*/
+  {
+und:'26',
+login:'LUCIA PINTO',
+pass: '3333',
+linkd:'https://docs.google.com/spreadsheets/d/1HDGs4XtplLIN6FWrGQ_eu3npsU36O2IEqRZokRLIjtU/edit?usp=sharing',
+linkdb:'https://docs.google.com/spreadsheets/d/1DvHXWnYixhWBLBi-15217FG1I-5miNF04IFiQXfCHC8/edit?pli=1&gid=0#gid=0',
+linkdc:'https://drive.google.com/drive/folders/1YE360fn5JnEsFF7Aa0c16Bu_s03zfOL1?usp=sharing',
+linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing',
+  linkde:'https://forms.gle/J76MKeNo2BNe8k5FA'
+},
 {
 und:'26',
 login:'VICTOR MATHEUS',
@@ -221,6 +231,16 @@ linkdb:'https://docs.google.com/spreadsheets/d/1J5seQhVgLgzyX5yM7epRukzmtjBiMoQ2
 linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
 linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing',
   linkde:'https://forms.gle/CNCqPo61AoPDS434A'
+},
+  {
+und:'12',
+login:'ANA LICE',
+pass: '3333',
+linkd: 'https://docs.google.com/spreadsheets/d/1yTK1wziaPdZyqBnKMWG5TtVfjKQ9YjQsgy-sCZwa_Tw/edit?usp=sharing',
+linkdb:'https://docs.google.com/spreadsheets/d/1J5seQhVgLgzyX5yM7epRukzmtjBiMoQ2Aw3Ajlje1e8/edit?usp=sharing',
+linkdc:'https://drive.google.com/drive/folders/1bc4nvm6qB1wCPHLgDPU0y66wKQ70zjZJ?usp=drive_link',
+linkdd:'https://docs.google.com/spreadsheets/d/1rqA2Ui5xcexySxBic6lahKXovB8bHN54t5RKY4yHT0I/edit?usp=sharing',
+  linkde:'https://forms.gle/AGapu5qMQ3625GBQ8'
 },
 {
 und:'14',
@@ -527,6 +547,7 @@ linkdb:'',
 linkdc:''
 },
 ]
+
 
 
 
